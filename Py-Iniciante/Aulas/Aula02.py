@@ -1,10 +1,21 @@
-num1 = input('Digite um número: ')
-num2 = input('Digite outro número: ')
+dicio = {
+    'chave': 'valor',
+}
 
-if num1.isdigit() and num2.isdigit():
-    num1 = int(num1)
-    num2 = int(num2)
-    print(num1 + num2)
-else:
-    print('Não pude converter os números para realizar contas.')
+print(dicio, type(dicio))
+# Acessar valores
+print(dicio['chave'])
+print(dicio.get('chave'))
 
+#Listar chaves
+print(dicio.keys())
+
+#Listar valoraoes
+print(dicio.values())
+
+#Retorna todos os itens do dicionario como tuplas em uma lista
+print(dicio.items())
+
+#Validação:
+if "chave" in dicio:
+    print("'chave' pertence à dicio")

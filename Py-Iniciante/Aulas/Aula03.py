@@ -1,8 +1,6 @@
-# Plass e Ellipsis (...) como placeholders
+# Função len()
 
-valor = True
+usuario = input('Digite seu usuário: ')
+qtd_caracteres = len(usuario)
 
-if valor:
-    ...
-else:
-    print("tchau")
+print(usuario, qtd_caracteres)

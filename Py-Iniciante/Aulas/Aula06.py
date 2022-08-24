@@ -1,32 +1,22 @@
-# Fazer uma calculadora
+"""
+Formatando valores com modificadores
 
-while True:
-    num1 = input('Digite o primeiro número: ')
-    num2 = input('Digite o segundo número: ')
-    operador = input('Digite o operador desejado: ')
+:s - Texto (str)
+:d - Inteiros (int)
+:f - Numeros de ponto flutuante (float)
+:.(NUMERO)f - Quantidade de casas decimais (float)
+:(CARACTERE)(> ou < ou ^)(QUANTIDADE)(TIPO - s, d, ou f)
 
-#   Validação
-    if not num1.isnumeric() or not num2.isnumeric():
-        print('Você precisa digitar um número.')
-        continue
+> - Esquerda
+< - Direita
+^ - Centro
+"""
 
-#   Conversacao de tipos
-    num1 = int(num1)
-    num2 = int(num2)
+num1 = 1
+num2 = 3
+divisao = num1 / num2
+nome = 'Eduardo Felix'
 
-    if operador == '+':
-        print(f'Resultado: {num1 + num2}')
-    elif operador == '-':
-        print(f'Resultado: {num1 - num2}')
-    elif operador == '*':
-        print(f'Resultado: {num1 * num2}')
-    elif operador == '/':
-        print(f'Resultado: {num1 / num2}')
-    else:
-        print('Operador inválido.')
-
-    continuar = input('Deseja continuar?[s/n] ')
-    if continuar == 'n' or 'N':
-        break
-    else:
-        pass
+print(f'{divisao:.2f}')
+print(f'{nome:s}')
+print(f'{num1:0<9}')
