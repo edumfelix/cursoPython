@@ -1,22 +1,10 @@
-"""
-Formatando valores com modificadores
+num1 = input('Digite um número: ')
+num2 = input('Digite outro número: ')
 
-:s - Texto (str)
-:d - Inteiros (int)
-:f - Numeros de ponto flutuante (float)
-:.(NUMERO)f - Quantidade de casas decimais (float)
-:(CARACTERE)(> ou < ou ^)(QUANTIDADE)(TIPO - s, d, ou f)
+if num1.isdigit() and num2.isdigit():
+    num1 = int(num1)
+    num2 = int(num2)
+    print(num1 + num2)
+else:
+    print('Não pude converter os números para realizar contas.')
 
-> - Esquerda
-< - Direita
-^ - Centro
-"""
-
-num1 = 1
-num2 = 3
-divisao = num1 / num2
-nome = 'Eduardo Felix'
-
-print(f'{divisao:.2f}')
-print(f'{nome:s}')
-print(f'{num1:0<9}')
