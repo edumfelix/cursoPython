@@ -10,7 +10,7 @@ print(dicio.get('chave'))
 #Listar chaves
 print(dicio.keys())
 
-#Listar valores
+#Listar valoraoes
 print(dicio.values())
 
 #Retorna todos os itens do dicionario como tuplas em uma lista
