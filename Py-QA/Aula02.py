@@ -11,11 +11,11 @@ search.send_keys("celular")
 search.send_keys(Keys.RETURN)
 
 #//div/span[.='\"celular\"']
-time.sleep(5)
-resultado = driver.find_element(By.ID, "p_89-title")
-
-print(resultado.text)
+result = driver.find_elements(By.XPATH, "/html/body/div[1]/div[2]/span/div/h1/div/div[1]/div/div/span[3]")
+print(result)
 # if search.text  == result.text:
 #   print('True')
 # else:
 #   print('ERROR!')
+
+# browser.quit()

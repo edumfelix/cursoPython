@@ -417,3 +417,1120 @@ console.error: "Error during quit-application-granted: [Exception... \"File erro
 1661970600328	Marionette	INFO	Stopped listening on port 44379
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662294030526	geckodriver	INFO	Listening on 127.0.0.1:36109
+1662294030964	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59691" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGt5u9f"
+Gtk-Message: 09:20:31.078: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:20:31.081: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662294031940	Marionette	INFO	Marionette enabled
+1662294031945	Marionette	INFO	Listening on port 42251
+WebDriver BiDi listening on ws://localhost:59691
+Read port: 42251
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662294032130	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGt5u9f/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59691/devtools/browser/47027896-3e43-4fa6-badf-bbd457c9ba2e
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sei.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sei.ifce.edu.br."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662294040553	Marionette	INFO	Stopped listening on port 42251
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662294070793	geckodriver	INFO	Listening on 127.0.0.1:35009
+1662294071238	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYGqfH0"
+Gtk-Message: 09:21:11.336: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:21:11.339: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662294071976	Marionette	INFO	Marionette enabled
+1662294071980	Marionette	INFO	Listening on port 43945
+WebDriver BiDi listening on ws://localhost:55891
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 43945
+1662294072104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYGqfH0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55891/devtools/browser/af436690-da13-46a2-978e-2d680249beef
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sei.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sei.ifce.edu.br."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662294077504	Marionette	INFO	Stopped listening on port 43945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662294096892	geckodriver	INFO	Listening on 127.0.0.1:60715
+1662294097352	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEVJ6c3"
+Gtk-Message: 09:21:37.464: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:21:37.466: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662294098108	Marionette	INFO	Marionette enabled
+1662294098112	Marionette	INFO	Listening on port 36043
+WebDriver BiDi listening on ws://localhost:44395
+Read port: 36043
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662294098294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEVJ6c3/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44395/devtools/browser/9ed393f1-52ee-49dc-9aa5-3ae229c1e6a7
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662294155603	geckodriver	INFO	Listening on 127.0.0.1:58821
+1662294156051	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilem6Hwra"
+Gtk-Message: 09:22:36.139: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:22:36.141: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662294156754	Marionette	INFO	Marionette enabled
+1662294156758	Marionette	INFO	Listening on port 40117
+WebDriver BiDi listening on ws://localhost:56489
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 40117
+1662294157014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem6Hwra/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56489/devtools/browser/74c63cb9-c623-46ef-8231-0f634e4fefa1
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sei.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sei.ifce.edu.br."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662294174614	Marionette	INFO	Stopped listening on port 40117
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+1662294810319	geckodriver	INFO	Listening on 127.0.0.1:51779
+1662294810751	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenQfVaX"
+Gtk-Message: 09:33:30.855: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:33:30.858: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662294811586	Marionette	INFO	Marionette enabled
+1662294811591	Marionette	INFO	Listening on port 33445
+WebDriver BiDi listening on ws://localhost:38019
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 33445
+1662294811731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenQfVaX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38019/devtools/browser/285e0e51-f86c-434f-8728-15d468eabe13
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+[Child 16610, MediaDecoderStateMachine #1] WARNING: Decoder=7fd809305100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox/parts/firefox/build/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 16610, MediaDecoderStateMachine #1] WARNING: Decoder=7fd809305100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox/parts/firefox/build/dom/media/MediaDecoderStateMachineBase.cpp:151
+1662294847062	geckodriver	INFO	Listening on 127.0.0.1:60111
+1662294847510	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHTIIcP"
+Gtk-Message: 09:34:07.600: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:34:07.602: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662294848227	Marionette	INFO	Marionette enabled
+1662294848231	Marionette	INFO	Listening on port 38789
+WebDriver BiDi listening on ws://localhost:56839
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 38789
+1662294848388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHTIIcP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56839/devtools/browser/7ff247bd-fbb8-430b-b955-b555a34ea372
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+[Child 17361, MediaDecoderStateMachine #1] WARNING: Decoder=7fb80b57cd00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox/parts/firefox/build/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 17361, MediaDecoderStateMachine #1] WARNING: Decoder=7fb80b57cd00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox/parts/firefox/build/dom/media/MediaDecoderStateMachineBase.cpp:151
+1662294887358	geckodriver	INFO	Listening on 127.0.0.1:36763
+1662294887779	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "46023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSOzXF6"
+Gtk-Message: 09:34:47.885: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:34:47.887: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662294888598	Marionette	INFO	Marionette enabled
+1662294888603	Marionette	INFO	Listening on port 44515
+WebDriver BiDi listening on ws://localhost:46023
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 44515
+1662294888742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSOzXF6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46023/devtools/browser/dde5a42e-cdec-488a-867b-437d61cfbe84
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+[Child 18074, MediaDecoderStateMachine #1] WARNING: Decoder=7f39e292bc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox/parts/firefox/build/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 18074, MediaDecoderStateMachine #1] WARNING: Decoder=7f39e292bc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox/parts/firefox/build/dom/media/MediaDecoderStateMachineBase.cpp:151
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662294912389	Marionette	INFO	Stopped listening on port 33445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662294914776	Marionette	INFO	Stopped listening on port 38789
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662294916333	Marionette	INFO	Stopped listening on port 44515
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662294917272	Marionette	INFO	Stopped listening on port 36043
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1662314063902	geckodriver	INFO	Listening on 127.0.0.1:35499
+1662314064340	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewDTmmZ"
+Gtk-Message: 14:54:24.456: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:54:24.466: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662314065287	Marionette	INFO	Marionette enabled
+1662314065292	Marionette	INFO	Listening on port 45857
+WebDriver BiDi listening on ws://localhost:34605
+Read port: 45857
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662314065462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewDTmmZ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+DevTools listening on ws://localhost:34605/devtools/browser/9ada854b-d7a8-46d8-90d1-1857aaf618df
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:847:3
+
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662314141836	Marionette	INFO	Stopped listening on port 45857
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662314145142	geckodriver	INFO	Listening on 127.0.0.1:51607
+1662314145587	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWzRN0m"
+Gtk-Message: 14:55:45.699: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:55:45.701: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662314146313	Marionette	INFO	Marionette enabled
+1662314146317	Marionette	INFO	Listening on port 33947
+WebDriver BiDi listening on ws://localhost:53433
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 33947
+1662314146495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWzRN0m/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+DevTools listening on ws://localhost:53433/devtools/browser/ad24822a-4740-446d-b835-7d532c901964
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 4351 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662314201998	geckodriver	INFO	Listening on 127.0.0.1:32841
+1662314202446	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejbJKy9"
+Gtk-Message: 14:56:42.543: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:56:42.544: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662314203181	Marionette	INFO	Marionette enabled
+1662314203185	Marionette	INFO	Listening on port 34761
+WebDriver BiDi listening on ws://localhost:59861
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 34761
+1662314203347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejbJKy9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59861/devtools/browser/a91e6dbf-6716-4a7b-8e11-31c93c012a39
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662314216788	Marionette	INFO	Stopped listening on port 34761
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662314219761	Marionette	INFO	Stopped listening on port 33947
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1662314309610	geckodriver	INFO	Listening on 127.0.0.1:55943
+1662314310037	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "49977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemwfZrN"
+Gtk-Message: 14:58:30.136: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:58:30.138: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662314310752	Marionette	INFO	Marionette enabled
+1662314310756	Marionette	INFO	Listening on port 38975
+WebDriver BiDi listening on ws://localhost:49977
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 38975
+1662314310953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemwfZrN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+DevTools listening on ws://localhost:49977/devtools/browser/32a62444-bbfa-4bac-9356-eefdaaee6db4
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 2766 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'file:///'
+1662314426766	geckodriver	INFO	Listening on 127.0.0.1:54549
+1662314427229	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGEps0K"
+Gtk-Message: 15:00:27.326: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:00:27.328: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662314427974	Marionette	INFO	Marionette enabled
+1662314427978	Marionette	INFO	Listening on port 42863
+WebDriver BiDi listening on ws://localhost:52055
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 42863
+1662314428125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGEps0K/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52055/devtools/browser/e96957bb-beea-445c-8a03-9a138a8f34a3
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 7164 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662314437264	Marionette	INFO	Stopped listening on port 38975
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 6857 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967355/thread1, type attach failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:32\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967355/thread1, type attach failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:32\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967330/inspectorActor4, type supportsHighlighters failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nsupportsEyeDropper@resource://devtools/client/inspector/inspector.js:1363:40\nsetupToolbar@resource://devtools/client/inspector/inspector.js:1381:42\nonRootNodeAvailable@resource://devtools/client/inspector/inspector.js:375:12\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967330/domnode37, type getUniqueSelector failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetNodeFrontSelectorsFromTopDocument@resource://devtools/shared/commands/inspector/inspector-command.js:325:42\nupdateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1476:8\nonNewSelection@resource://devtools/client/inspector/inspector.js:1550:10\ninit@resource://devtools/client/inspector/inspector.js:239:10\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967330/pagestyle22, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\nonSidebarSelect@resource://devtools/client/inspector/boxmodel/box-model.js:398:10\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nhandleSelectionChange@resource://devtools/client/inspector/toolsidebar.js:216:10\naddAllQueuedTabs/<@resource://devtools/client/shared/components/tabs/TabBar.js:182:20\ncallCallback@resource://devtools/client/shared/vendor/react-dom.js:12127:12\ncommitUpdateEffects@resource://devtools/client/shared/vendor/react-dom.js:12166:19\ncommitUpdateQueue@resource://devtools/client/shared/vendor/react-dom.js:12154:22\ncommitLifeCycles@resource://devtools/client/shared/vendor/react-dom.js:12964:28\ncommitAllLifeCycles@resource://devtools/client/shared/vendor/react-dom.js:14174:23\ncommitRoot@resource://devtools/client/shared/vendor/react-dom.js:14380:28\ncompleteRoot/<@resource://devtools/client/shared/vendor/react-dom.js:15731:15\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ncompleteRoot@resource://devtools/client/shared/vendor/react-dom.js:15730:27\nperformWorkOnRoot@resource://devtools/client/shared/vendor/react-dom.js:15659:21\nperformWork@resource://devtools/client/shared/vendor/react-dom.js:15567:24\nperformSyncWork@resource://devtools/client/shared/vendor/react-dom.js:15541:14\nrequestWork@resource://devtools/client/shared/vendor/react-dom.js:15410:5\nscheduleWork@resource://devtools/client/shared/vendor/react-dom.js:15224:16\nenqueueSetState@resource://devtools/client/shared/vendor/react-dom.js:8192:17\nComponent.prototype.setState@resource://devtools/client/shared/vendor/react.js:328:16\naddAllQueuedTabs@resource://devtools/client/shared/components/tabs/TabBar.js:180:10\naddAllQueuedTabs@resource://devtools/client/inspector/toolsidebar.js:78:18\nsetupSidebar@resource://devtools/client/inspector/inspector.js:1262:18\ninit@resource://devtools/client/inspector/inspector.js:234:10\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967330/pagestyle22, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:124:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nrefreshPanel/<@resource://devtools/client/inspector/rules/rules.js:1054:19\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967330/pagestyle22, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:124:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967330/pagestyle22, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:124:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nrefreshPanel/<@resource://devtools/client/inspector/rules/rules.js:1054:19\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967330/pagestyle22, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:124:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967330/pagestyle22, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:124:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 107))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967330/pagestyle22, type getApplied failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:293:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+getApplied@resource://devtools/client/fronts/page-style.js:59:29
+populate@resource://devtools/client/inspector/rules/models/element-style.js:124:8
+_populate@resource://devtools/client/inspector/rules/rules.js:1119:8
+refreshPanel/<@resource://devtools/client/inspector/rules/rules.js:1054:19
+
+console.error: "Unable to find target with innerWindowId:4294967330"
+JavaScript error: resource://devtools/client/fronts/inspector.js, line 259: TypeError: this.targetFront is null
+console.error: "Unable to find target with innerWindowId:4294967342"
+console.error: "Unable to find target with innerWindowId:4294967342"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Unable to find target with innerWindowId:4294967330"
+console.error: "Unable to find target with innerWindowId:4294967342"
+console.error: "Unable to find target with innerWindowId:4294967330"
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967356/domnode244, type getUniqueSelector failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetNodeFrontSelectorsFromTopDocument@resource://devtools/shared/commands/inspector/inspector-command.js:325:42\nupdateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1476:8\nonNewSelection@resource://devtools/client/inspector/inspector.js:1550:10\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nsetNodeFront@resource://devtools/client/framework/selection.js:206:10\nonRootNodeAvailable@resource://devtools/client/inspector/inspector.js:368:22\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967356/pagestyle173, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\nonNewSelection@resource://devtools/client/inspector/boxmodel/box-model.js:288:10\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nsetNodeFront@resource://devtools/client/framework/selection.js:206:10\nonRootNodeAvailable@resource://devtools/client/inspector/inspector.js:368:22\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967356/pagestyle173, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:124:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967356/domwalker172, type children failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nchildren@resource://devtools/client/fronts/walker.js:339:20\n_getVisibleChildren@resource://devtools/client/inspector/markup/markup.js:2323:34\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967356/domwalker172, type children failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nchildren@resource://devtools/client/fronts/walker.js:339:20\n_getVisibleChildren@resource://devtools/client/inspector/markup/markup.js:2323:34\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967356/domwalker172, type children failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nchildren@resource://devtools/client/fronts/walker.js:339:20\n_getVisibleChildren@resource://devtools/client/inspector/markup/markup.js:2323:34\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967356/domwalker172, type getEmbedderElement failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:408:26\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967356/pagestyle173, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:124:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Can not send request 'supportsHighlighters' because front 'inspector' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 30))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967356/domwalker172, type getEmbedderElement failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:408:26\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Exception when calling onAvailable handler" "Connection closed, pending request to server0.conn0.windowGlobal4294967356/domwalker172, type getEmbedderElement failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:408:26\n" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967356/domwalker172, type getEmbedderElement failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nreparentRemoteFrame@resource://devtools/client/fronts/walker.js:408:26\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967356/pagestyle173, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ngetApplied@resource://devtools/client/fronts/page-style.js:59:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:124:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Error while destroying front:" "accessibility" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967356/accessibilityActor13, type bootstrap failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\ninitialize@resource://devtools/client/fronts/accessibility.js:538:37\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Unable to find target with innerWindowId:4294967365"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967356/domwalker172, type getEmbedderElement failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:293:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+reparentRemoteFrame@resource://devtools/client/fronts/walker.js:408:26
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 107: Error: Connection closed, pending request to server0.conn0.windowGlobal4294967356/accessibilityActor13, type bootstrap failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:293:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19
+initialize@resource://devtools/client/fronts/accessibility.js:538:37
+
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Unable to find target with innerWindowId:4294967356"
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967368/domwalker21, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967370/domwalker21, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967372/domwalker21, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:293:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 107))
+1662314500503	geckodriver	INFO	Listening on 127.0.0.1:47345
+1662314500951	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "51993" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXOytsX"
+Gtk-Message: 15:01:41.044: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:01:41.046: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662314501758	Marionette	INFO	Marionette enabled
+1662314501764	Marionette	INFO	Listening on port 40807
+WebDriver BiDi listening on ws://localhost:51993
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 40807
+1662314501947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXOytsX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+DevTools listening on ws://localhost:51993/devtools/browser/e7f0a25c-5c03-433b-b7cf-7b67545f7dcb
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662314504889	Marionette	INFO	Stopped listening on port 42863
+[Child 18084, MediaDecoderStateMachine #1] WARNING: Decoder=7fe18ed3b900 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox/parts/firefox/build/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 18084, MediaDecoderStateMachine #1] WARNING: Decoder=7fe18ed3b900 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox/parts/firefox/build/dom/media/MediaDecoderStateMachineBase.cpp:151
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 2439 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662314517656	Marionette	INFO	Stopped listening on port 40807
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662314580317	geckodriver	INFO	Listening on 127.0.0.1:47447
+1662314580751	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "37155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileboL4s6"
+Gtk-Message: 15:03:00.854: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:03:00.857: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662314581609	Marionette	INFO	Marionette enabled
+1662314581614	Marionette	INFO	Listening on port 41901
+WebDriver BiDi listening on ws://localhost:37155
+Read port: 41901
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662314581771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileboL4s6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37155/devtools/browser/67edaef9-38a2-4ad6-976b-d92bf871c22a
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 699"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:699:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:543:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2150:35
+addAllSources@resource://devtools/server/actors/thread.js:1482:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:288:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:161:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:53:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:528:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:437:21
+Line: 699, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 699: Failed to open input source 'file:///'
+1662314647396	geckodriver	INFO	Listening on 127.0.0.1:49217
+1662314647819	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9iG1kD"
+Gtk-Message: 15:04:07.921: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:04:07.923: Failed to load module "canberra-gtk-module"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662314648287	Marionette	INFO	Stopped listening on port 41901
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662314648785	Marionette	INFO	Marionette enabled
+1662314648790	Marionette	INFO	Listening on port 42711
+WebDriver BiDi listening on ws://localhost:44839
+Read port: 42711
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662314648979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9iG1kD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+DevTools listening on ws://localhost:44839/devtools/browser/febbd505-162a-4ff3-b9be-5341763b6a3e
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/CgETvhyXIYksjpVuZOiCWYZFr3TNicAtz6hsjYVMHCQ.js line 2 > eval line 4049 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662314667769	Marionette	INFO	Stopped listening on port 42711
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662315142513	geckodriver	INFO	Listening on 127.0.0.1:51875
+1662315142969	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "52099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileD5EBQT"
+Gtk-Message: 15:12:23.065: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:12:23.067: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662315143703	Marionette	INFO	Marionette enabled
+1662315143708	Marionette	INFO	Listening on port 41803
+WebDriver BiDi listening on ws://localhost:52099
+ATTENTION: default value of option mesa_glthread overridden by environment.
+Read port: 41803
+1662315143833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileD5EBQT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+DevTools listening on ws://localhost:52099/devtools/browser/441126b7-529a-469f-9b34-e668d3931774
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1662315276437	geckodriver	INFO	Listening on 127.0.0.1:60853
+1662315276891	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1RWYQ0"
+Gtk-Message: 15:14:36.973: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:14:36.976: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662315277665	Marionette	INFO	Marionette enabled
+1662315277669	Marionette	INFO	Listening on port 41445
+WebDriver BiDi listening on ws://localhost:58885
+Read port: 41445
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662315277801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1RWYQ0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58885/devtools/browser/fcddf9d0-2d87-4dd7-8532-aa9ed64dae26
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662315285317	Marionette	INFO	Stopped listening on port 41445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 local data was corrupted
+console.warn: services.settings: main/pioneer-study-addons-v1 Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed again InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/pioneer-study-addons-v1)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/query-stripping)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed  InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  main/addons-manager-settings local data was corrupted
+console.warn: services.settings: main/addons-manager-settings Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/addons-manager-settings Signature failed again InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/addons-manager-settings)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:169:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:977:13
+
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662315876396	Marionette	INFO	Stopped listening on port 41803
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662316320560	geckodriver	INFO	Listening on 127.0.0.1:50425
+1662316321005	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "46415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0CtNvX"
+Gtk-Message: 15:32:01.122: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:32:01.124: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662316321867	Marionette	INFO	Marionette enabled
+1662316321872	Marionette	INFO	Listening on port 41175
+WebDriver BiDi listening on ws://localhost:46415
+Read port: 41175
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662316322007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0CtNvX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+DevTools listening on ws://localhost:46415/devtools/browser/5894811d-5af5-4b5e-a0a2-b34532d32e85
+1662316323584	Marionette	INFO	Stopped listening on port 41175
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662316348088	geckodriver	INFO	Listening on 127.0.0.1:46163
+1662316348525	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGhXhYb"
+Gtk-Message: 15:32:28.629: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:32:28.631: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662316349274	Marionette	INFO	Marionette enabled
+1662316349279	Marionette	INFO	Listening on port 43807
+WebDriver BiDi listening on ws://localhost:35391
+Read port: 43807
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662316349452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGhXhYb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+DevTools listening on ws://localhost:35391/devtools/browser/5c9c78a4-7b46-4dc2-ada9-e43d0a006ef0
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662316360221	Marionette	INFO	Stopped listening on port 43807
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1662316384928	geckodriver	INFO	Listening on 127.0.0.1:58589
+1662316385395	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "51061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWSyed0"
+Gtk-Message: 15:33:05.494: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:33:05.496: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662316386175	Marionette	INFO	Marionette enabled
+1662316386179	Marionette	INFO	Listening on port 44437
+WebDriver BiDi listening on ws://localhost:51061
+Read port: 44437
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662316386354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWSyed0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51061/devtools/browser/fa607fa2-a849-4e41-b3f7-0576a819811e
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:847:3
+
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662316415633	Marionette	INFO	Stopped listening on port 44437
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662316425164	geckodriver	INFO	Listening on 127.0.0.1:46991
+1662316425584	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTQNJ88"
+Gtk-Message: 15:33:45.687: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:33:45.690: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+1662316426449	Marionette	INFO	Marionette enabled
+1662316426454	Marionette	INFO	Listening on port 34541
+WebDriver BiDi listening on ws://localhost:35511
+Read port: 34541
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662316426632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTQNJ88/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+DevTools listening on ws://localhost:35511/devtools/browser/0346c50a-6e7e-44d8-8b08-7e5f29b148d2
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+1662316430933	Marionette	INFO	Stopped listening on port 34541
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot create directory "/usr/share/libreoffice/help": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+1662415607439	geckodriver	INFO	Listening on 127.0.0.1:57651
+1662415607868	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "34183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecm4IM7"
+Gtk-Message: 19:06:47.934: Failed to load module "canberra-gtk-module"
+Gtk-Message: 19:06:47.937: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662415609002	Marionette	INFO	Marionette enabled
+1662415609008	Marionette	INFO	Listening on port 43691
+WebDriver BiDi listening on ws://localhost:34183
+Read port: 43691
+1662415609208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecm4IM7/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34183/devtools/browser/1a289ec5-79cc-4caa-bf4c-c5dcc501c90d
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+1662415654729	geckodriver	INFO	Listening on 127.0.0.1:37347
+1662415655170	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile95bkNI"
+Gtk-Message: 19:07:35.255: Failed to load module "canberra-gtk-module"
+Gtk-Message: 19:07:35.257: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662415655908	Marionette	INFO	Marionette enabled
+1662415655913	Marionette	INFO	Listening on port 36537
+WebDriver BiDi listening on ws://localhost:50367
+Read port: 36537
+1662415656051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile95bkNI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50367/devtools/browser/3387d6cf-7f3b-49ac-a47a-d9af1d5f13eb
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662415660905	Marionette	INFO	Stopped listening on port 43691
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662415676294	geckodriver	INFO	Listening on 127.0.0.1:36505
+1662415676740	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "42605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledZIDlc"
+Gtk-Message: 19:07:56.815: Failed to load module "canberra-gtk-module"
+Gtk-Message: 19:07:56.818: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662415677471	Marionette	INFO	Marionette enabled
+1662415677476	Marionette	INFO	Listening on port 35931
+WebDriver BiDi listening on ws://localhost:42605
+Read port: 35931
+1662415677622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledZIDlc/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+DevTools listening on ws://localhost:42605/devtools/browser/8f5f4653-f326-4dca-bd95-932c4fdc1190
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662415679660	Marionette	INFO	Stopped listening on port 36537
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JRDtgcUl_7OUjJ4QO8bVbwNuRTRqDUxuSBYCwiPHS6U.js line 2 > eval line 4287 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662415692653	Marionette	INFO	Stopped listening on port 35931
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662415694195	geckodriver	INFO	Listening on 127.0.0.1:35897
+1662415694628	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "41605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNGjLbm"
+Gtk-Message: 19:08:14.695: Failed to load module "canberra-gtk-module"
+Gtk-Message: 19:08:14.697: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1662415695255	Marionette	INFO	Marionette enabled
+1662415695259	Marionette	INFO	Listening on port 36803
+WebDriver BiDi listening on ws://localhost:41605
+Read port: 36803
+1662415695428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNGjLbm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41605/devtools/browser/a6ecc489-5164-4390-ae36-fa0ea80a90a9
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+[Child 8239, MediaDecoderStateMachine #1] WARNING: Decoder=7f8d6b233d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox/parts/firefox/build/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 8239, MediaDecoderStateMachine #1] WARNING: Decoder=7f8d6b233d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /build/firefox/parts/firefox/build/dom/media/MediaDecoderStateMachineBase.cpp:151
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JRDtgcUl_7OUjJ4QO8bVbwNuRTRqDUxuSBYCwiPHS6U.js line 2 > eval line 1049 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1662415727021	geckodriver	INFO	Listening on 127.0.0.1:41973
+1662415727471	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKxQflc"
+Gtk-Message: 19:08:47.537: Failed to load module "canberra-gtk-module"
+Gtk-Message: 19:08:47.541: Failed to load module "canberra-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662415728042	Marionette	INFO	Stopped listening on port 36803
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662415728145	Marionette	INFO	Marionette enabled
+1662415728151	Marionette	INFO	Listening on port 44545
+WebDriver BiDi listening on ws://localhost:55359
+Read port: 44545
+1662415728320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKxQflc/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55359/devtools/browser/5df20f7b-5d08-4ced-8f75-ffea7a214de8
+console.error: services.settings: 
+  main/query-stripping Signature failed  InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.error: services.settings: 
+  main/query-stripping local data was corrupted
+console.warn: services.settings: main/query-stripping Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/query-stripping Signature failed again InvalidSignatureError: Invalid content signature (main/query-stripping)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.com.br."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1662415744106	Marionette	INFO	Stopped listening on port 44545
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
