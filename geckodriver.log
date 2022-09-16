@@ -901,3 +901,374 @@ Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
 console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
 1663002669773	Marionette	INFO	Stopped listening on port 34819
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663345698014	geckodriver	INFO	Listening on 127.0.0.1:40899
+1663345699012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilehpCidJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663345699836	Marionette	INFO	Marionette enabled
+1663345699844	Marionette	INFO	Listening on port 44729
+Read port: 44729
+1663345700011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehpCidJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663345704003	Marionette	INFO	Stopped listening on port 44729
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663345892871	geckodriver	INFO	Listening on 127.0.0.1:50493
+1663345892876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXtUBHU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663345893741	Marionette	INFO	Marionette enabled
+1663345893747	Marionette	INFO	Listening on port 34029
+Read port: 34029
+1663345893878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXtUBHU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663345910026	geckodriver	INFO	Listening on 127.0.0.1:44227
+1663345910031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilevexf3a"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663345910964	Marionette	INFO	Marionette enabled
+1663345910969	Marionette	INFO	Listening on port 42617
+Read port: 42617
+1663345911147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevexf3a/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663345912173	Marionette	INFO	Stopped listening on port 42617
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663345912718	Marionette	INFO	Stopped listening on port 34029
+1663345919178	geckodriver	INFO	Listening on 127.0.0.1:36721
+1663345919184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileK5SG3C"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663345920043	Marionette	INFO	Marionette enabled
+1663345920047	Marionette	INFO	Listening on port 41127
+Read port: 41127
+1663345920145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK5SG3C/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663345934532	Marionette	INFO	Stopped listening on port 41127
+1663346052287	geckodriver	INFO	Listening on 127.0.0.1:44205
+1663346052296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile4qbaAE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663346053102	Marionette	INFO	Marionette enabled
+1663346053107	Marionette	INFO	Listening on port 40141
+Read port: 40141
+1663346053403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4qbaAE/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663346074651	Marionette	INFO	Stopped listening on port 40141
+1663346144784	geckodriver	INFO	Listening on 127.0.0.1:42277
+1663346144793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile4LOW1k"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663346145628	Marionette	INFO	Marionette enabled
+1663346145632	Marionette	INFO	Listening on port 36805
+Read port: 36805
+1663346145743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4LOW1k/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663346180238	Marionette	INFO	Stopped listening on port 36805
+1663346359879	geckodriver	INFO	Listening on 127.0.0.1:34483
+1663346359889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileWLpjyY"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663346360734	Marionette	INFO	Marionette enabled
+1663346360738	Marionette	INFO	Listening on port 42929
+Read port: 42929
+1663346360843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWLpjyY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+1663346904216	geckodriver	INFO	Listening on 127.0.0.1:50409
+1663346904221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileSOU2Ue"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663346905025	Marionette	INFO	Marionette enabled
+1663346905031	Marionette	INFO	Listening on port 40459
+Read port: 40459
+1663346905342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSOU2Ue/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663346944123	Marionette	INFO	Stopped listening on port 40459
+1663346946071	geckodriver	INFO	Listening on 127.0.0.1:45729
+1663346946075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilelZHgji"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663346946982	Marionette	INFO	Marionette enabled
+1663346946987	Marionette	INFO	Listening on port 45657
+Read port: 45657
+1663346947221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelZHgji/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+1663346952562	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663347066859	Marionette	INFO	Stopped listening on port 42929
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663347073357	Marionette	INFO	Stopped listening on port 45657
+1663347077375	geckodriver	INFO	Listening on 127.0.0.1:42949
+1663347077381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileERStW6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663347078167	Marionette	INFO	Marionette enabled
+1663347078170	Marionette	INFO	Listening on port 39241
+Read port: 39241
+1663347078264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileERStW6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+1663347084102	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663347114553	Marionette	INFO	Stopped listening on port 39241
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1663347120481	geckodriver	INFO	Listening on 127.0.0.1:52085
+1663347120485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileH8RROI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663347121247	Marionette	INFO	Marionette enabled
+1663347121251	Marionette	INFO	Listening on port 37689
+Read port: 37689
+1663347121348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH8RROI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+1663347140235	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1663347279185	geckodriver	INFO	Listening on 127.0.0.1:35091
+1663347279191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilexRqQz7"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663347280136	Marionette	INFO	Marionette enabled
+1663347280140	Marionette	INFO	Listening on port 42401
+Read port: 42401
+1663347280288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexRqQz7/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663347284567	Marionette	INFO	Stopped listening on port 37689
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+1663347288578	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+1663347710856	geckodriver	INFO	Listening on 127.0.0.1:43693
+1663347710863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXAndql"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663347711791	Marionette	INFO	Marionette enabled
+1663347711798	Marionette	INFO	Listening on port 45941
+Read port: 45941
+1663347711946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXAndql/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+1663347720064	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663347726361	Marionette	INFO	Stopped listening on port 42401
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+1663347731389	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1663347731584	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+SourceActor threw an exception: Error: Failed to fetch https://prpi.ifce.edu.br/nl/_lib/prod/third/sweetalert/polyfill.min.js. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:583:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 583, column: 16
+console.error: (new Error("Failed to fetch https://prpi.ifce.edu.br/nl/_lib/prod/third/sweetalert/polyfill.min.js. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 583))
+SourceActor threw an exception: Error: Failed to fetch https://prpi.ifce.edu.br/nl/_lib/prod/third/sweetalert/polyfill.min.js. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:583:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 583, column: 16
+console.error: (new Error("Failed to fetch https://prpi.ifce.edu.br/nl/_lib/prod/third/sweetalert/polyfill.min.js. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 583))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 583: Error: Failed to fetch https://prpi.ifce.edu.br/nl/_lib/prod/third/sweetalert/polyfill.min.js. Code 2153390067.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 583: Error: Failed to fetch https://prpi.ifce.edu.br/nl/_lib/prod/third/sweetalert/polyfill.min.js. Code 2153390067.
+SourceActor threw an exception: Error: Failed to fetch https://prpi.ifce.edu.br/nl/Dashboards/. Code 2153390067.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:583:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 583, column: 16
+console.error: (new Error("Failed to fetch https://prpi.ifce.edu.br/nl/Dashboards/. Code 2153390067.", "resource://devtools/shared/DevToolsUtils.js", 583))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 583: Error: Failed to fetch https://prpi.ifce.edu.br/nl/Dashboards/. Code 2153390067.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663348135301	geckodriver	INFO	Listening on 127.0.0.1:43109
+1663348135310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileJthal4"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663348136398	Marionette	INFO	Marionette enabled
+1663348136402	Marionette	INFO	Listening on port 39259
+Read port: 39259
+1663348136558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJthal4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663348178747	Marionette	INFO	Stopped listening on port 39259
+1663348435240	geckodriver	INFO	Listening on 127.0.0.1:44185
+1663348435247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilez2IcQK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663348436144	Marionette	INFO	Marionette enabled
+1663348436152	Marionette	INFO	Listening on port 43813
+Read port: 43813
+1663348436342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez2IcQK/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663348463691	Marionette	INFO	Stopped listening on port 43813
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663348463900	Marionette	INFO	Stopped listening on port 45941
+1663348480011	geckodriver	INFO	Listening on 127.0.0.1:42555
+1663348481022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilefvXlZp"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663348481784	Marionette	INFO	Marionette enabled
+1663348481788	Marionette	INFO	Listening on port 38269
+Read port: 38269
+1663348481881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefvXlZp/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 292: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2241: unreachable code after return statement
+JavaScript warning: https://prpi.ifce.edu.br/nl/app_Login/, line 2274: unreachable code after return statement
+JavaScript warning: https://www.youtube.com/s/player/a97e97de/player_ias.vflset/pt_BR/base.js, line 9439: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+1663348490170	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://prpi.ifce.edu.br."
+1663348514439	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1663348514722	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663348606986	Marionette	INFO	Stopped listening on port 38269
