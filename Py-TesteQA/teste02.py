@@ -14,3 +14,4 @@ time.sleep(1)
 resultado = driver.find_element(By.CSS_SELECTOR, ".a-color-state")
 
 driver.quit()
+
