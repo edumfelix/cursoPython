@@ -21,13 +21,16 @@ login_btn = driver.find_element(By.XPATH, "//input[@class='button']").click()
 
 sleep(1)
 
-try:
-    wait = WebDriverWait(driver, 20)
-    wait.until(EC.visibility_of_element_located((By.XPATH, "//td[.='Campus:']/../../tr/td/div/div[@value='Todos']/div/input"))).click()
-except Exception as e:
-    print(e)
+wait = WebDriverWait(driver, 40)
+driver.switch_to.frame("iframe_MenuPrincipal")
+driver.switch_to.frame("nmsc_iframe_IframeZoho_1")
+driver.switch_to.frame(driver.find_element(By.XPATH, "//iframe[@src='https://reports.zoho.com/ZDBDataSheetView.cc?OBJID=1390984000000007513&STANDALONE=true&WIDTH=800&HEIGHT=600&INTERVAL=-1&REMTOOLBAR=true&INCLUDETITLE=true&INCLUDEDESC=true']"))
+wait.until(EC.visibility_of_element_located((By.XPATH, "//td[.='Campus:']/../../tr/td/div/div[@value='Todos']")))
+btn_todos = driver.find_element(By.XPATH, "//td[.='Campus:']/../../tr/td/div/div[@value='Todos']/div").click()
 
-driver.quit()
+# driver.switch_to.default_content()
+
+# driver.quit()
 
 """
 1. Clicar em Todos
