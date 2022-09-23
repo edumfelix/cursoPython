@@ -19,11 +19,12 @@ passwd.send_keys("EduMFT134")
 
 login_btn = driver.find_element(By.XPATH, "//input[@class='button']").click()
 
-sleep(1)
+sleep(20)
 
 try:
-    wait = WebDriverWait(driver, 20)
-    wait.until(EC.visibility_of_element_located((By.XPATH, "//td[.='Campus:']/../../tr/td/div/div[@value='Todos']/div/input"))).click()
+    # wait = WebDriverWait(driver, 20)
+    # wait.until(EC.visibility_of_element_located((By.XPATH, "//td[.='Campus:']/../../tr/td/div/div[@value='Todos']/div/input"))).click()
+    click_todos_btn = driver.find_element(By.XPATH, "//td[.='Campus:']/../../tr/td/div/div[@value='Todos']/div/input").click()
 except Exception as e:
     print(e)
 
