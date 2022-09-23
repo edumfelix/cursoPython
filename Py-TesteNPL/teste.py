@@ -21,14 +21,6 @@ login_btn = driver.find_element(By.XPATH, "//input[@class='button']").click()
 
 sleep(20)
 
-<<<<<<< HEAD
-try:
-    # wait = WebDriverWait(driver, 20)
-    # wait.until(EC.visibility_of_element_located((By.XPATH, "//td[.='Campus:']/../../tr/td/div/div[@value='Todos']/div/input"))).click()
-    click_todos_btn = driver.find_element(By.XPATH, "//td[.='Campus:']/../../tr/td/div/div[@value='Todos']/div/input").click()
-except Exception as e:
-    print(e)
-=======
 wait = WebDriverWait(driver, 40)
 driver.switch_to.frame("iframe_MenuPrincipal")
 driver.switch_to.frame("nmsc_iframe_IframeZoho_1")
@@ -37,7 +29,6 @@ wait.until(EC.visibility_of_element_located((By.XPATH, "//td[.='Campus:']/../../
 btn_todos = driver.find_element(By.XPATH, "//td[.='Campus:']/../../tr/td/div/div[@value='Todos']/div").click()
 
 # driver.switch_to.default_content()
->>>>>>> 80c2010ed0697d47f46f7cb3041d4ef9aa5e3a3e
 
 # driver.quit()
 
