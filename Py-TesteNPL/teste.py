@@ -1,3 +1,5 @@
+from cmath import exp
+from unicodedata import name
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -29,14 +31,21 @@ wait.until(EC.visibility_of_element_located((By.XPATH, "//td[.='Campus:']/../../
 
 btn_todos = driver.find_element(By.XPATH, "//td[.='Campus:']/../../tr/td/div/div[@value='Todos']/div").click()
 
+sleep(1)
 btn_check_todos = driver.find_element(By.XPATH, '//div[@id="vmOptionList_Campus"]/div[@elname="optionDiv"]/ul[@class="multi_allOpt VMFilterValue VMFilterValueNew VMFilterValueMulti"]/li/span[@class="likeCheckBoxEl"]').click()
-# driver.switch_to.default_content()
+text_check_maracanau = driver.find_element(By.XPATH, '//li[@data-tip="Maracanau"]/span[2]').text
+btn_check_maracanau = driver.find_element(By.XPATH, '//li[@data-tip="Maracanau"]/span[2]').click()
+btn_check_ok = driver.find_element(By.XPATH, '//input[@elname="multiSelOk"]').click()
 
-# driver.quit()
+name_maracanau = driver.find_element(By.CSS_SELECTOR, 'div.ly-node:nth-child(8) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(1) > div:nth-child(4) > div:nth-child(2) > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(4) > svg:nth-child(1) > g:nth-child(2) > g:nth-child(2) > g:nth-child(1) > g:nth-child(1) > g:nth-child(2) > g:nth-child(2) > text:nth-child(3)')
 
-"""
-1. Clicar em Todos
-2. Clicar em Maracanaú
-3. Clicar em OK
-4. Comparar resultado com pesquisa
-"""
+try:
+    if name_maracanau.text == text_check_maracanau:
+        print("Teste OK")
+    else:
+        print("Teste Falhou")
+        print(f'{name_maracanau.text} != {text_check_maracanau}')
+except Exception as e:
+    print("Erro: ", e)
+
+driver.quit()
