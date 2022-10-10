@@ -48,4 +48,4 @@ try:
 except Exception as e:
     print("Erro: ", e)
 
-driver.quit()
+# driver.quit()
